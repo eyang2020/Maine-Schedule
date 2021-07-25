@@ -1,6 +1,6 @@
 <img src="icon/android-chrome-256x256.png" align="right" width="180px"/>
 
-# Maine Schedule
+# Maine-Schedule
 
 ## What is Maine Schedule?
 Maine Schedule is a real-time schedule for Maine South High School. It is updated according to the block schedule. Users can access Maine Schedule via the browser as a website or as a Chrome Extension.
